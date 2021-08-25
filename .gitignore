@@ -1,4 +1,6 @@
-/project08_gold_recovery_coefficient/old
+/project08_gold_recovery_coefficient/old/
+*.ipynb_checkpoints/
 
+*checkpoint.ipynb
 *.csv
 *.pdf
